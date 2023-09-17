@@ -1,16 +1,9 @@
-# todoapp
+#task:1 -todoapp
 
-A new Flutter project.
+Screenshots:
 
-## Getting Started
+![244601319-6588e5f1-7d3e-467c-82c3-2b5a62eb7879](https://github.com/deep22798/task_2-todoApp/assets/76737835/d5207bfc-a0f8-4ff2-beec-f0903a4f16ea)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![244601450-a4229659-da8d-4087-af58-ebce256aaa2a](https://github.com/deep22798/task_2-todoApp/assets/76737835/9066bded-cf54-44e6-89b2-a11b0e785e2a)  ![244601415-ae3bf083-e281-48f1-be3c-d32f7d85a297](https://github.com/deep22798/task_2-todoApp/assets/76737835/5306b825-ab40-4c3d-a8f6-7ab7f426fabd)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
